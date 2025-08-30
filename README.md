@@ -3,6 +3,7 @@
 A classic number guessing game implemented in Java. This is a simple, console-based application where the computer picks a random number between 1 and 100, and the player must guess it within a limited number of attempts.
 
 The project is designed with a clear separation between the game logic (`NumberGuess.java`) and the application entry point (`Main.java`).
+https://roadmap.sh/projects/number-guessing-game
 
 -----
 
